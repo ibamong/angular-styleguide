@@ -1,3 +1,5 @@
+Translate in Thai:D
+
 # Angular 1 Style Guide
 
 ## Angular Team Endorsed
